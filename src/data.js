@@ -1,52 +1,36 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Text Editor",
+    subtitle: "PWA Text Editor",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A Progressive Web Application that allows for the user to input, delete and edit text. It is an application that could be runned in the browser offline or be installed locally into the user's machine.",
+    //replace pic
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/RoamingHeart/pwa-text-editor",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Social Distancing",
+    subtitle: "NoSQL Social Network API",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A social network API built with NoSQL using mongoose and express.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/RoamingHeart/nosql-socials",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Logo Maker",
+    subtitle: "SVG Logo Maker",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "An application that creates a logo using user inputs from inquirer prompts and generates a SVG file holding the user's desired image.",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/RoamingHeart/SVG-logo-maker",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "All Star News Broadcasting Site",
+    subtitle: "News and Weather Website",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A news and weather website. Allows for the user to see breaking news and what the weather is like at their location.",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    link: "https://github.com/RoamingHeart/Project2",
   },
 ];
 
