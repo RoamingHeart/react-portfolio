@@ -1,10 +1,12 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
+  "homepage": "https://RoamingTower.github.io/react-portfolio",
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
     "@heroicons/react": "^1.0.1",
+    "gh-pages": "^6.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "^1.1.5"
